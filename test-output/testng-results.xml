@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51572" started-at="2018-12-18T18:04:19Z" finished-at="2018-12-18T18:05:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51572" started-at="2018-12-18T18:04:19Z" finished-at="2018-12-18T18:05:11Z">
+      <class name="MainTest_Design.GasMilageCalculation">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:MainTest_Design.GasMilageCalculation@1fa121e2]" name="setUp" is-config="true" duration-ms="21582" started-at="2018-12-18T18:04:19Z" finished-at="2018-12-18T18:04:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="calculateGasMilageUsingPOM()[pri:0, instance:MainTest_Design.GasMilageCalculation@1fa121e2]" name="calculateGasMilageUsingPOM" duration-ms="28660" started-at="2018-12-18T18:04:41Z" finished-at="2018-12-18T18:05:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateGasMilageUsingPOM -->
+        <test-method status="PASS" signature="closeUp()[pri:0, instance:MainTest_Design.GasMilageCalculation@1fa121e2]" name="closeUp" is-config="true" duration-ms="1281" started-at="2018-12-18T18:05:10Z" finished-at="2018-12-18T18:05:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeUp -->
+      </class> <!-- MainTest_Design.GasMilageCalculation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
